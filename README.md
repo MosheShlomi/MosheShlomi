@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MosheShlomi?tab=repositories](https://github.com/MosheShlomi?tab=repositories)
 
-- 💬 Ask me about **react, angular, django, etc.**
+- 💬 Ask me about **react, angular, django, vue.js etc.**
 
 - 📫 How to reach me **folmoshe@gmail.com**
 
