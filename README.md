@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moshe Shlomi</h1>
 <h3 align="center">A passionate Full-stack developer</h3>
 
-- 🔭 I’m currently working on [React Chat App](https://github.com/MosheShlomi/React-Chat-App)
+- 🔭 I’m currently working on [MERN Tash Blog](https://github.com/MosheShlomi/MERN-TASH-BLOG)
 
 - 🌱 I’m currently learning **Vue.js, Web3**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MosheShlomi?tab=repositories](https://github.com/MosheShlomi?tab=repositories)
 
-- 💬 Ask me about **react, angular, django, vue.js etc.**
+- 💬 Ask me about **React, Angular, Django, Vue.js etc.**
 
 - 📫 How to reach me **folmoshe@gmail.com**
 
